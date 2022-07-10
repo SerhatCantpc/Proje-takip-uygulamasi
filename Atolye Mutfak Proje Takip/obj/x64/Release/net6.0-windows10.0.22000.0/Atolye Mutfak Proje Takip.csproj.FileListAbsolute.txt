@@ -1,0 +1,41 @@
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\Atolye Mutfak Proje Takip.exe
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\Atolye Mutfak Proje Takip.deps.json
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\Atolye Mutfak Proje Takip.runtimeconfig.json
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\Atolye Mutfak Proje Takip.dll
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\Atolye Mutfak Proje Takip.pdb
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\AForge.dll
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\AForge.Video.dll
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\AForge.Video.DirectShow.dll
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\BouncyCastle.Crypto.dll
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\Google.Protobuf.dll
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\K4os.Compression.LZ4.dll
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\K4os.Hash.xxHash.dll
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\MySql.Data.dll
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\Ubiety.Dns.Core.dll
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\ZstdNet.dll
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\MySqlConnector.dll
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\SipaaFramework.dll
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\zxing.dll
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\WinRT.Runtime.dll
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\obj\x64\Release\net6.0-windows10.0.22000.0\Atolye Mutfak Proje Takip.csproj.AssemblyReference.cache
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\obj\x64\Release\net6.0-windows10.0.22000.0\Atolye_Mutfak_Proje_Takip.anasayfa.resources
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\obj\x64\Release\net6.0-windows10.0.22000.0\Atolye_Mutfak_Proje_Takip.kullanici_giris.resources
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\obj\x64\Release\net6.0-windows10.0.22000.0\Atolye_Mutfak_Proje_Takip.Form2.resources
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\obj\x64\Release\net6.0-windows10.0.22000.0\Atolye_Mutfak_Proje_Takip.proje_ekle.resources
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\obj\x64\Release\net6.0-windows10.0.22000.0\Atolye_Mutfak_Proje_Takip.Properties.Resources.resources
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\obj\x64\Release\net6.0-windows10.0.22000.0\Atolye_Mutfak_Proje_Takip.sevkiyatduzenle.resources
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\obj\x64\Release\net6.0-windows10.0.22000.0\Atolye_Mutfak_Proje_Takip.Tamamlanan_Projeler.resources
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\obj\x64\Release\net6.0-windows10.0.22000.0\Atolye Mutfak Proje Takip.csproj.GenerateResource.cache
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\obj\x64\Release\net6.0-windows10.0.22000.0\Atolye Mutfak Proje Takip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\obj\x64\Release\net6.0-windows10.0.22000.0\Atolye Mutfak Proje Takip.AssemblyInfoInputs.cache
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\obj\x64\Release\net6.0-windows10.0.22000.0\Atolye Mutfak Proje Takip.AssemblyInfo.cs
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\obj\x64\Release\net6.0-windows10.0.22000.0\Atolye Mutfak Proje Takip.csproj.CoreCompileInputs.cache
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\obj\x64\Release\net6.0-windows10.0.22000.0\Atolye Mutfak Proje Takip.csproj.CopyComplete
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\obj\x64\Release\net6.0-windows10.0.22000.0\Atolye Mutfak Proje Takip.dll
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\obj\x64\Release\net6.0-windows10.0.22000.0\refint\Atolye Mutfak Proje Takip.dll
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\obj\x64\Release\net6.0-windows10.0.22000.0\Atolye Mutfak Proje Takip.pdb
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\obj\x64\Release\net6.0-windows10.0.22000.0\Atolye Mutfak Proje Takip.genruntimeconfig.cache
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\obj\x64\Release\net6.0-windows10.0.22000.0\ref\Atolye Mutfak Proje Takip.dll
+C:\Users\biril\Desktop\sevkiyattakip\Atolye Mutfak Proje Takip\Atolye Mutfak Proje Takip\bin\x64\Release\net6.0-windows10.0.22000.0\QRCoder.dll

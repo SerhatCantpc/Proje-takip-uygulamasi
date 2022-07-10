@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\yedek\\sevkiyattakip\\Atolye Mutfak Proje Takip\\Atolye Mutfak Proje Takip\\Atolye Mutfak Proje Takip.csproj": {}
+  },
+  "projects": {
+    "D:\\yedek\\sevkiyattakip\\Atolye Mutfak Proje Takip\\Atolye Mutfak Proje Takip\\Atolye Mutfak Proje Takip.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\yedek\\sevkiyattakip\\Atolye Mutfak Proje Takip\\Atolye Mutfak Proje Takip\\Atolye Mutfak Proje Takip.csproj",
+        "projectName": "Atolye Mutfak Proje Takip",
+        "projectPath": "D:\\yedek\\sevkiyattakip\\Atolye Mutfak Proje Takip\\Atolye Mutfak Proje Takip\\Atolye Mutfak Proje Takip.csproj",
+        "packagesPath": "C:\\Users\\biril\\.nuget\\packages\\",
+        "outputPath": "D:\\yedek\\sevkiyattakip\\Atolye Mutfak Proje Takip\\Atolye Mutfak Proje Takip\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\biril\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows10.0.22000"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows10.0.22000": {
+            "targetAlias": "net6.0-windows10.0.22000.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows10.0.22000": {
+          "targetAlias": "net6.0-windows10.0.22000.0",
+          "dependencies": {
+            "AForge.Video.DirectShow": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Bunifu.UI.WinForms": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "CircularProgressBar": {
+              "target": "Package",
+              "version": "[2.8.0.16, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.29, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.1.10, )"
+            },
+            "QRCoder": {
+              "target": "Package",
+              "version": "[1.4.3, )"
+            },
+            "SipaaFramework": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "ZXing.Net": {
+              "target": "Package",
+              "version": "[0.16.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.22000.25, 10.0.22000.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
